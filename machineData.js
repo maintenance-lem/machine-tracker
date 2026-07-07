@@ -1,6 +1,6 @@
 const machineData = {
   "VENUS 6": {
-    "P10": {
+    "P10 TRY PUNYA DULU": {
       "Pallate Not Moving": [
         {
           "verification": [
